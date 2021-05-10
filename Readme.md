@@ -2,7 +2,7 @@
 
 ![Alt text](./.resource/wallpaper.svg)
 
-I wanted to explore new tastes in interpreted languages and that's how I decided to learn nodeJS. This repository contains my steps 👞 and the learning path I followed in order to master 🧠 the C programming language.
+I wanted to explore new tastes in interpreted languages and that's how I decided to learn nodeJS. This repository contains my steps 👞 and the learning path I followed in order to master 🧠 the Nodejs engine.
 
 ## Description
 Javascript code files that I wrote while I was learning nodejs, I started as a beginner from the most basic and I hope to master nodejs later
